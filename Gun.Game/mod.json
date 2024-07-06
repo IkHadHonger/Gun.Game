@@ -1,0 +1,6 @@
+{
+	"Name" : "IkHadHonger.Stupid.Gun.Game",
+	"Description" : "Gungame with Phaseshift-Rewind and Firestar",
+	"Version": "1.0.0",
+	"LoadPriority": 4
+}

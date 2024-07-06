@@ -1,0 +1,14 @@
+WeaponData
+{
+	MP_BASE
+	{
+		"explosion_damage"								"170"
+		"explosion_inner_radius"  						"100"
+		"explosionradius" 								"250"
+
+		"ammo_stockpile_max"							"200"
+		"ammo_clip_size"								"200"
+		"ammo_default_total"							"200"
+		"regen_ammo_refill_rate"						"10"		
+	}
+}

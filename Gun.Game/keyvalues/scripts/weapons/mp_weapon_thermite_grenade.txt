@@ -1,0 +1,10 @@
+WeaponData
+{
+	MP_BASE
+	{
+		"ammo_stockpile_max"							"200"
+		"ammo_clip_size"								"200"
+		"ammo_default_total"						    "200"
+		"regen_ammo_refill_rate"						"10"
+	}
+}
